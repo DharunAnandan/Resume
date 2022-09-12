@@ -1,2 +1,1 @@
-# Resume
-IBM Assignment2 Resume creation 
+# simple-portfolio-site
